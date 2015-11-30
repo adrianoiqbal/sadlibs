@@ -25,6 +25,10 @@
 /* Begin PBXFileReference section */
 		4C2BA3E61C0B549B00433589 /* sadlibs */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = sadlibs; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C2BA3E91C0B549B00433589 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		4C2BA3F11C0B54CD00433589 /* sadlibs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sadlibs.h; sourceTree = "<group>"; };
+		4C2BA3F21C0B55E800433589 /* subordinate.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = subordinate.txt; path = ../subordinate.txt; sourceTree = "<group>"; };
+		4C2BA3F31C0B63BB00433589 /* independent.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = independent.txt; sourceTree = "<group>"; };
+		4C2BA3F41C0B677B00433589 /* names.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = names.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,10 @@
 			isa = PBXGroup;
 			children = (
 				4C2BA3E91C0B549B00433589 /* main.c */,
+				4C2BA3F11C0B54CD00433589 /* sadlibs.h */,
+				4C2BA3F21C0B55E800433589 /* subordinate.txt */,
+				4C2BA3F31C0B63BB00433589 /* independent.txt */,
+				4C2BA3F41C0B677B00433589 /* names.txt */,
 			);
 			path = sadlibs;
 			sourceTree = "<group>";
